@@ -1,4 +1,3 @@
-Novidade! Atalhos do teclado … Os atalhos de teclado do Drive foram atualizados para oferecer navegação por letras iniciais
 ---
 html:
   embed_local_images: true
@@ -10,13 +9,12 @@ export_on_save:
     puppeteer: true
 id: "roteiro"
 ---
-@import "/estilo/piStyle.less"
+@import "estilo/piStyle.less"
 
 # :ledger: Roteiro de Estudo
 
 <font color="grey"><b>COMP0334 - PROGRAMAÇÃO IMPERATIVA</b>
-Prof. Alberto Costa Neto
-Prof. Kalil Araujo Bispo
+Prof. \<???\>
 
 </font>
 
