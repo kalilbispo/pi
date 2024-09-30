@@ -23,7 +23,7 @@ Prof. \<???\>
 
 <div>
 
-<img src="/icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
+<img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
 
 <!--
 * [<span style="background-color: #FFFF00">Metodologia</span>](https://youtu.be/mGCPgINEztI) (5 min)
@@ -36,15 +36,15 @@ Prof. \<???\>
 * [<span style="background-color: #FFFF00">Como serão as Provas</span>](https://youtu.be/L9kWztEjXq0) (2 min)
 * [<span style="background-color: #FFFF00">Bibliografia</span>](https://youtu.be/MzYPfijY5uo) (2 min)
 -->
-* [Sobre a Disciplina Programação Imperativa](https://youtu.be/qkML5DSMxI4) (6 min) [<img src="/icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/01-SobrePI.pdf)
+* [Sobre a Disciplina Programação Imperativa](https://youtu.be/qkML5DSMxI4) (6 min) [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/01-SobrePI.pdf)
 
-* [O que é Programar](https://youtu.be/ngL_U_slWI8) (10 min) [<img src="/icones/pdf.png" width="24" height="24" align="top"> <i> Slides</i></img>](slides/02-O_que_e_Programar.pdf)
+* [O que é Programar](https://youtu.be/ngL_U_slWI8) (10 min) [<img src="icones/pdf.png" width="24" height="24" align="top"> <i> Slides</i></img>](slides/02-O_que_e_Programar.pdf)
 
-* [Motivação para Programar](https://youtu.be/nHCG4Zib-Tg) (11 min) [<img src="/icones/pdf.png" width="24" height="24" align="top"> <i> Slides</i></img>](slides/03-Motivacao_Programar.pdf)
+* [Motivação para Programar](https://youtu.be/nHCG4Zib-Tg) (11 min) [<img src="icones/pdf.png" width="24" height="24" align="top"> <i> Slides</i></img>](slides/03-Motivacao_Programar.pdf)
 
-* [Arquitetura de Hardware](https://youtu.be/Eku8qyVp0_A) (17 min) [<img src="/icones/pdf.png" width="24" height="24" align="top"> <i> Slides</i></img>](slides/04-Hardware.pdf)
+* [Arquitetura de Hardware](https://youtu.be/Eku8qyVp0_A) (17 min) [<img src="icones/pdf.png" width="24" height="24" align="top"> <i> Slides</i></img>](slides/04-Hardware.pdf)
 
-* [Visão Geral da Linguagem Python](https://youtu.be/QIBVGzePI4k) (24 min) [<img src="/icones/pdf.png" width="24" height="24" align="top"> <i> Slides</i></img>](slides/05-Visao_Geral_Python.pdf)
+* [Visão Geral da Linguagem Python](https://youtu.be/QIBVGzePI4k) (24 min) [<img src="icones/pdf.png" width="24" height="24" align="top"> <i> Slides</i></img>](slides/05-Visao_Geral_Python.pdf)
 
 
 :computer: **Atividades**
@@ -59,11 +59,11 @@ Prof. \<???\>
 
 
 
-<img src="/icones/pdf.png" width="24" height="24" align="top"> <b>Leitura recomendada</b></img>
+<img src="icones/pdf.png" width="24" height="24" align="top"> <b>Leitura recomendada</b></img>
 
  * Capítulo 1 do livro [Python for Everybody](livros/python_for_everybody.pdf) ou [Python para Informática](livros/python_para_informatica.pdf) (Tradução)
 
-<img src="/icones/netflix.png" width="24" height="24" align="top"> <b>Netflix (opcional)</b></img>
+<img src="icones/netflix.png" width="24" height="24" align="top"> <b>Netflix (opcional)</b></img>
 
   * [Explicando - Temporada 2 - Episódio: Código de Programação](https://www.netflix.com/br/title/80216752) (24 min)
 
