@@ -1,4 +1,3 @@
-Novidade! Atalhos do teclado … Os atalhos de teclado do Drive foram atualizados para oferecer navegação por letras iniciais
 ---
 html:
   embed_local_images: true
@@ -8,9 +7,9 @@ puppeteer:
 export_on_save:
     html: true
     puppeteer: true
-id: "roteiro"
+id: "plano"
 ---
-@import "/estilo/piStyle.less"
+@import "estilo/piStyle.less"
 
 # :ledger: Roteiro de Estudo
 
