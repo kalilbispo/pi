@@ -148,13 +148,6 @@ Prof. \<???\>
 
 </div>
 
-## Semana Acadêmica - (27/11/2023 a 02/12/2023)
-<div>
-
-- Participar das atividades da Semana Acadêmica (não haverá aula).
-</div>
-
-
 ## Semana 03 - (04/12/2023 a 09/12/2023)
   
 <div>
@@ -261,9 +254,6 @@ Prof. \<???\>
 
 * [Questionário 05](http://thehuxley.com) 
 </div>
-
-
-## Recesso Natalino e Férias Coletivas - (25/12/2023 a 13/01/2024)
 
 
 ## Semana 06 - (15/01/2024 a 20/01/2024)
@@ -393,15 +383,8 @@ Prof. \<???\>
   
 </div>
 
-## Semana 09 - (05/02/2024 a 10/02/2024)
 
-<div>
-
-- Esclarecimento de dúvidas e resolução de exercícios
-
-</div>
-
-## Semanas 10 e 11 - (12/02/2024 a 24/02/2024)
+## Semanas 09 - (12/02/2024 a 24/02/2024)
 
 <div>
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
@@ -443,15 +426,7 @@ Prof. \<???\>
 <br>
 
 
-<div>
-
-  * **Entrega de notas da 1a Prova**
-  * **Resolução da 1a prova**
-
-</div>
-
-
-## Semana 12 - (26/02/2024 a 02/03/2024)
+## Semana 10 - (26/02/2024 a 02/03/2024)
 
 <div>
 
@@ -497,7 +472,7 @@ Prof. \<???\>
 </div>
 
 
-## Semana 13 - (04/03/2024 a 09/03/2024)
+## Semana 11 - (04/03/2024 a 09/03/2024)
 <div>
 
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
@@ -526,7 +501,7 @@ Prof. \<???\>
 
 
 
-## Semana 14 - (11/03/2024 a 16/03/2024)
+## Semana 12 - (11/03/2024 a 16/03/2024)
 
 <div>
 
@@ -563,7 +538,7 @@ Prof. \<???\>
 
 
 
-## Semana 15 - (18/03/2024 a 23/03/2024)
+## Semana 13 - (18/03/2024 a 23/03/2024)
 
 <div>
 
@@ -583,27 +558,20 @@ Prof. \<???\>
 
 
 
-## Semana 16 - (25/03/2024 a 30/03/2024)
+## Semana 14 - (25/03/2024 a 30/03/2024)
 <div>
 
 * <font color="#FFAA00"><b>2a Prova</b></font> :writing_hand: 
 
 </div>
 
-## Semana 17 - (01/04/2024 a 06/04/2024)
-<div>
-
-* <font color="#FFAA00"><b>Prova de Reposição</b></font> :writing_hand: 
-
-</div>
-
-
-## Semana 18 - (08/04/2024 a 13/04/2024)
+## Semana 15 - (08/04/2024 a 13/04/2024)
 
 <div>
 
 * **Entrega de notas da 2a Prova**
 * **Resolução da 2a prova**
+* **Prova de Reposição**
 * **Resolução da prova de reposição**
 * **Entrega das notas finais**
 * **Encerramento** :smiley:
