@@ -7,7 +7,7 @@ puppeteer:
 export_on_save:
     html: true
     puppeteer: true
-id: "plano"
+id: "roteiro"
 ---
 @import "estilo/piStyle.less"
 
