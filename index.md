@@ -256,7 +256,7 @@ Prof. \<???\>
 </div>
 
 
-## Semana 06 - (15/01/2024 a 20/01/2024)
+## Semana 06
 
 <div>
 
@@ -299,7 +299,7 @@ Prof. \<???\>
 
 
 
-## Semana 07 - (22/01/2024 a 27/01/2024)
+## Semana 07
 
 <div>
 
@@ -340,7 +340,7 @@ Prof. \<???\>
 </div>
 
 
-## Semana 08 - (29/01/2024 a 03/02/2024)
+## Semana 08
 
 <div>
 
@@ -384,7 +384,7 @@ Prof. \<???\>
 </div>
 
 
-## Semanas 09 - (12/02/2024 a 24/02/2024)
+## Semanas 09
 
 <div>
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
@@ -426,7 +426,7 @@ Prof. \<???\>
 <br>
 
 
-## Semana 10 - (26/02/2024 a 02/03/2024)
+## Semana 10
 
 <div>
 
@@ -472,7 +472,7 @@ Prof. \<???\>
 </div>
 
 
-## Semana 11 - (04/03/2024 a 09/03/2024)
+## Semana 11
 <div>
 
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
@@ -501,7 +501,7 @@ Prof. \<???\>
 
 
 
-## Semana 12 - (11/03/2024 a 16/03/2024)
+## Semana 12
 
 <div>
 
@@ -535,10 +535,7 @@ Prof. \<???\>
 
 
 
-
-
-
-## Semana 13 - (18/03/2024 a 23/03/2024)
+## Semana 13
 
 <div>
 
@@ -558,7 +555,7 @@ Prof. \<???\>
 
 
 
-## Semana 14 - (25/03/2024 a 30/03/2024)
+## Semana 14
 <div>
 
 * <font color="#FFAA00"><b>2a Prova</b></font> :writing_hand: 
