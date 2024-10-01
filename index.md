@@ -220,6 +220,12 @@ Prof. \<???\>
 
 <div>
 
+  * <font color="#FFAA00"><b>1a Prova</b></font> :writing_hand: 
+</div>
+<br>
+
+<div>
+
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
 
 * [Funções predefinidas e Bibliotecas](https://youtu.be/sK-ootef7rI) (12 min) [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/19-Funcoes_Predefinidas_Bibliotecas.pdf)
@@ -342,11 +348,6 @@ Prof. \<???\>
 
 ## Semana 08
 
-<div>
-
-  * <font color="#FFAA00"><b>1a Prova</b></font> :writing_hand: 
-</div>
-<br>
 <div>
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
 
