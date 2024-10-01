@@ -13,10 +13,12 @@ id: "roteiro"
 
 # :ledger: Roteiro de Estudo
 
-<font color="grey"><b>COMP0334 - PROGRAMAÇÃO IMPERATIVA</b>
-Prof. \<???\>
+<font color="grey">
+<b> PROGRAMAÇÃO IMPERATIVA
 
-Turmas \<???\> e \<???\>
+COMP0334 - T04 e COMP0197 - T03 </b>
+  
+Prof. *a ser indicado*
 
 </font>
 
