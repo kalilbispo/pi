@@ -110,7 +110,7 @@ Prof. *a ser indicado*
 
   * [Expressões Numéricas](https://youtu.be/-8wUrt50CtU) (9 min) [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/12-Expressoes_Numericas.pdf)
 
-  
+  * [Ordem de Avaliação e Precedência de Operadores](https://youtu.be/lED0b3oWo9E) (7 min)  [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/14-Ordem_de_Avaliacao.pdf)
 
 <img src="icones/pdf.png" width="24" height="24" align="top"> <b>Leitura recomendada</b></img>
 
@@ -143,8 +143,12 @@ Prof. *a ser indicado*
 <img src="icones/thehuxley.png" width="24" height="24" align="top"> <b>Atividades de Programação (The Huxley)</b></img>
 
   * [Guia de Cadastramento no The Huxley](/thehuxley/GuiaCadastramentoTheHuxley.pdf)
+    
   * Cadastrar-se no The Huxley ([http://thehuxley.com](http://thehuxley.com))
+    
   * [Questionário 01 (The Huxley)](http://thehuxley.com)
+    
+  * [Questionário 02](http://thehuxley.com)
 
 :iphone: **Instalar e testar o aplicativo [The Huxley Mobile](https://play.google.com/store/apps/details?id=br.ufs.dcomp.thehuxleymobile) (Android)**
 
@@ -159,27 +163,32 @@ Prof. *a ser indicado*
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
 
   * [Expressões Relacionais e Booleanas](https://youtu.be/qVMP9SkeFmE) (14 min)  [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/13-Expressoes_Relacionais_Booleanas.pdf)
-  
-  * [Ordem de Avaliação e Precedência de Operadores](https://youtu.be/lED0b3oWo9E) (7 min)  [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/14-Ordem_de_Avaliacao.pdf)
 
-  * [Comandos Condicionais](https://www.youtube.com/watch?v=nNRVOAcPAoM) (10 min) [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/15-Comando_Condicional.pdf)
-  
+  * [Comandos Condicionais simples](https://www.youtube.com/watch?v=nNRVOAcPAoM) (10 min) [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/15-Comando_Condicional.pdf)
+    
   * [Blocos de código (indentação)](https://www.youtube.com/watch?v=a91qZE3XZmA) (13 min)  [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/16-Blocos_de_Codigo.pdf)
+  
+  *  [Comandos Condicionais Aninhados e Múltiplos](https://www.youtube.com/watch?v=MO1Nf86LKBs) (18 min) [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/17-Comando_Condicional_Aninhado_Multiplo.pdf)
+  
+  
 
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas (The Huxley)</b></img>
 
   * [Problema Resolvido: Análise de Crédito](https://youtu.be/lwQKmD7aIJg) (10 min)
+  * [Problema Resolvido: Aluguel de Imóvel](https://youtu.be/nm6l3exbB9o) (11 min)
+  * [Problema Resolvido: Chance de Aprovação](https://youtu.be/1qGzT6zgXDc) (18 min)
+  * [Problema Resolvido: Decrescente 3](http://youtu.be/mlHj_T7D5xc) (12 min)
 
 <img src="icones/pdf.png" width="24" height="24" align="top"> <b>Leitura recomendada</b></img>
 
- * Seções 3.1 a 3.4 do livro [Python for Everybody](livros/python_for_everybody.pdf) ou [Python para Informática](livros/python_para_informatica.pdf) (Tradução)
+ * Seções 3.1 a 3.6 do livro [Python for Everybody](livros/python_for_everybody.pdf) ou [Python para Informática](livros/python_para_informatica.pdf) (Tradução)
  * Capítulos 2 e 4 do livro [Como pensar como um Cientista da Computação](livros/como_pensar_como_um_cc_usando_python.pdf)
 
 
 <img src="icones/thehuxley.png" width="24" height="24" align="top"> <b>Atividades de Programação (The Huxley)</b></img>
 
-  * [Questionário 02](http://thehuxley.com)
   * [Questionário 03](http://thehuxley.com)
+  * [Questionário 04](http://thehuxley.com)
 
 
 </div>
@@ -191,50 +200,7 @@ Prof. *a ser indicado*
 
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
 
-  * [Comandos Condicionais Aninhados e Múltiplos](https://www.youtube.com/watch?v=MO1Nf86LKBs) (18 min) [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/17-Comando_Condicional_Aninhado_Multiplo.pdf)
-
-  * [Simplificando Condicionais e Operadores Lógicos](https://drive.google.com/file/d/1onyLd8G5I2YEvntU5TDAd7htsnlMwORd/view?usp=sharing) (19 min) [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/17-Simplificando_Codicionais_e_Operadores_Logicos.pdf)
-
-
-  * [Tratamento de Exceções](https://www.youtube.com/watch?v=h2GQlT5jam0) (12 min) [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/18-Tratamento_de_Excecoes.pdf)
-
-
-<img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas (The Huxley)</b></img>
-
-  * [Problema Resolvido: Aluguel de Imóvel](https://youtu.be/nm6l3exbB9o) (11 min)
-  * [Problema Resolvido: Chance de Aprovação](https://youtu.be/1qGzT6zgXDc) (18 min)
-  * [Problema Resolvido: Decrescente 3](http://youtu.be/mlHj_T7D5xc) (12 min)
-
-
-<img src="icones/pdf.png" width="24" height="24" align="top"> <b>Leitura recomendada</b></img>
-
-  * Seções 3.5 a 3.8 do livro [Python for Everybody](livros/python_for_everybody.pdf) ou [Python para Informática](livros/python_para_informatica.pdf) (Tradução)
-  * Capítulo 4 do livro [Como pensar como um Cientista da Computação](livros/como_pensar_como_um_cc_usando_python.pdf)
-
-
-<img src="icones/thehuxley.png" width="24" height="24" align="top"> <b>Atividades de Programação (The Huxley)</b></img>
-
-  * [Questionário 04](http://thehuxley.com)
-
-
-</div>
-
-
-## Semana 05 - (28/10/2024 a 02/11/2024)
-
-<div>
-
-  * <font color="#FFAA00"><b>1a Prova</b></font> :writing_hand: 
-</div>
-<br>
-
-
-## Semana 06
-
-<div>
-
-<img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
-
+  
 * [Funções predefinidas e Bibliotecas](https://youtu.be/sK-ootef7rI) (12 min) [<img src="icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](slides/19-Funcoes_Predefinidas_Bibliotecas.pdf)
 
 
@@ -269,7 +235,17 @@ Prof. *a ser indicado*
 </div>
 
 
-## Semana 07
+
+## Semana 05 - (28/10/2024 a 02/11/2024)
+
+<div>
+
+  * <font color="#FFAA00"><b>1a Prova</b></font> :writing_hand: 
+</div>
+<br>
+
+
+## Semana 06
 
 <div>
 
@@ -312,7 +288,7 @@ Prof. *a ser indicado*
 
 
 
-## Semana 08
+## Semana 07
 
 <div>
 
@@ -353,7 +329,7 @@ Prof. *a ser indicado*
 </div>
 
 
-## Semana 09
+## Semana 08
 
 <div>
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
@@ -392,7 +368,7 @@ Prof. *a ser indicado*
 </div>
 
 
-## Semanas 10
+## Semanas 09
 
 <div>
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
@@ -434,7 +410,7 @@ Prof. *a ser indicado*
 <br>
 
 
-## Semana 11
+## Semana 10
 
 <div>
 
@@ -480,7 +456,7 @@ Prof. *a ser indicado*
 </div>
 
 
-## Semana 12
+## Semana 11
 <div>
 
 <img src="icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
@@ -509,7 +485,7 @@ Prof. *a ser indicado*
 
 
 
-## Semana 13
+## Semana 12
 
 <div>
 
@@ -543,7 +519,7 @@ Prof. *a ser indicado*
 
 
 
-## Semana 14
+## Semana 13
 
 <div>
 
@@ -563,14 +539,14 @@ Prof. *a ser indicado*
 
 
 
-## Semana 15
+## Semana 14
 <div>
 
 * <font color="#FFAA00"><b>2a Prova</b></font> :writing_hand: 
 
 </div>
 
-## Semana 16
+## Semana 15
 
 <div>
 
