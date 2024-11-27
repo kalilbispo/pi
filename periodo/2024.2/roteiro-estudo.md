@@ -142,13 +142,13 @@ Prof. Kalil Araujo Bispo
 
 <img src="../../icones/thehuxley.png" width="24" height="24" align="top"> <b>Atividades de Programação (The Huxley)</b></img>
 
-  * [Guia de Cadastramento no The Huxley](/thehuxley/GuiaCadastramentoTheHuxley.pdf)
+  * [Guia de Cadastramento no The Huxley](../../thehuxley/GuiaCadastramentoTheHuxley.pdf)
     
   * Cadastrar-se no The Huxley ([http://thehuxley.com](http://thehuxley.com))
     
   * [Questionário 01 (The Huxley)](http://thehuxley.com)
     
-  * [Questionário 02](http://thehuxley.com)
+  * [Questionário 02 (The Huxley)](http://thehuxley.com)
 
 :iphone: **Instalar e testar o aplicativo [The Huxley Mobile](https://play.google.com/store/apps/details?id=br.ufs.dcomp.thehuxleymobile) (Android)**
 

@@ -142,7 +142,7 @@ Prof. *a ser indicado*
 
 <img src="../../icones/thehuxley.png" width="24" height="24" align="top"> <b>Atividades de Programação (The Huxley)</b></img>
 
-  * [Guia de Cadastramento no The Huxley](/thehuxley/GuiaCadastramentoTheHuxley.pdf)
+  * [Guia de Cadastramento no The Huxley](../../thehuxley/GuiaCadastramentoTheHuxley.pdf)
     
   * Cadastrar-se no The Huxley ([http://thehuxley.com](http://thehuxley.com))
     

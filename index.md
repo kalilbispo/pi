@@ -28,4 +28,3 @@ id: "plano"
 -->
 **[:ledger: 2024.1](periodo/2024.1/roteiro-estudo.html)**
 **[:ledger: 2024.2](periodo/2024.2/roteiro-estudo.html)**
-
