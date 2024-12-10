@@ -90,7 +90,7 @@ Prof. Kalil Araujo Bispo
 </div>
 
 
-## Semana 02
+## Semana 02 - (02/12/2024 a 07/12/2024)
 
 <div>
 
@@ -156,7 +156,9 @@ Prof. Kalil Araujo Bispo
 
 </div>
 
-## Semana 03
+## <mark> Semana Acadêmica - (09/12/2024 a 14/12/2024) </mark>
+
+## Semana 03 - (16/12/2024 a 21/12/2024)
   
 <div>
 
@@ -193,8 +195,11 @@ Prof. Kalil Araujo Bispo
 
 </div>
 
+## <mark> Recesso Acadêmico - (23/12/2024 a 31/12/2024) </mark>
 
-## Semana 04
+## <mark> Férias Coletivas - (02/01/2025 a 11/01/2025) </mark>
+
+## Semana 04 - (13/01/2025 a 18/01/2025)
 
 <div>
 
@@ -236,7 +241,7 @@ Prof. Kalil Araujo Bispo
 
 
 
-## Semana 05
+## Semana 05 - (20/01/2025 a 25/01/2025)
 
 <div>
 
@@ -279,7 +284,7 @@ Prof. Kalil Araujo Bispo
 
 
 
-## Semana 06
+## Semana 06 - (27/01/2025 a 01/02/2025)
 
 <div>
 
@@ -319,14 +324,14 @@ Prof. Kalil Araujo Bispo
 
 </div>
 
-## Semana 7
+## Semana 7 - (03/02/2025 a 08/02/2025)
 <div>
 
   * <font color="#FFAA00"><b>1a Prova</b></font> :writing_hand: 
 </div>
 
 
-## Semana 08
+## Semana 08 - (10/02/2025 a 15/02/2025)
 
 <div>
 <img src="../../icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
@@ -365,7 +370,7 @@ Prof. Kalil Araujo Bispo
 </div>
 
 
-## Semanas 09
+## Semanas 09 - (17/02/2025 a 22/02/2025)
 
 <div>
 <img src="../../icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
@@ -407,7 +412,7 @@ Prof. Kalil Araujo Bispo
 <br>
 
 
-## Semana 10
+## Semana 10 - (24/02/2025 a 01/03/2025)
 
 <div>
 
@@ -452,8 +457,9 @@ Prof. Kalil Araujo Bispo
 
 </div>
 
+## <mark> Carnaval - (03/03/2025 a 08/03/2025) </mark>
 
-## Semana 11
+## Semana 11 - (10/03/2025 a 15/03/2025)
 <div>
 
 <img src="../../icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas</b></img>
@@ -482,7 +488,7 @@ Prof. Kalil Araujo Bispo
 
 
 
-## Semana 12
+## Semana 12 - (17/03/2025 a 22/03/2025)
 
 <div>
 
@@ -516,7 +522,7 @@ Prof. Kalil Araujo Bispo
 
 
 
-## Semana 13
+## Semana 13 - (24/03/2025 a 29/03/2025)
 
 <div>
 
@@ -536,14 +542,14 @@ Prof. Kalil Araujo Bispo
 
 
 
-## Semana 14
+## Semana 14 - (31/03/2025 a 05/04/2024)
 <div>
 
 * <font color="#FFAA00"><b>2a Prova</b></font> :writing_hand: 
 
 </div>
 
-## Semana 15
+## Semana 15 - (07/04/2024 a 12/04/2024)
 
 <div>
 
