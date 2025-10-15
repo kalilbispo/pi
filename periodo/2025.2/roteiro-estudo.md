@@ -493,10 +493,6 @@ Prof. Kalil Araujo Bispo
 
 * [Aplicações de Tuplas](https://youtu.be/xmJsnlI4KtQ) (13 min) [<img src="../../icones/pdf.png" width="24" height="24" align="top"><i> Slides</i></img>](../../slides/39-Aplicacoes_Tuplas.pdf)
 
-* Conjuntos
-
-* Aplicações de Conjuntos
-
 
 <img src="../../icones/youtube.png" width="24" height="24" align="top"> <b>Videoaulas (The Huxley)</b></img>
 
