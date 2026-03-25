@@ -37,4 +37,3 @@ id: "plano"
 ## Datas Importantes
 - #### Prova 1: 05/05/2026
 - #### Prova 2: 25/06/2026
-- #### Reposição (Apenas casos previstos nas normas acadêmicas): 10/02/2026
